@@ -44,7 +44,7 @@ I'm using virtualenvwrapper, so:
 
 3. Fetch buildout and install all dependencies:
 
-# python bootstrap.py -v 1.7.0
+# python bootstrap.py
 # bin/buildout
 
 
